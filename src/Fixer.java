@@ -48,7 +48,7 @@ public class Fixer {
         });
 
 
-        //Revers fix Button
+        //Reverse fix Button
 
         undoFixButton.addActionListener(new ActionListener() {
             @Override
