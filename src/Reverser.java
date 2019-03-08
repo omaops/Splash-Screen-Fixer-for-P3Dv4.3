@@ -2,10 +2,8 @@ import java.io.*;
 
 public class Reverser {
 
-    void rev () throws IOException {
+    void rev (String src, String dst) throws IOException {
 
-        String dst = "C:/ProgramData/Lockheed Martin/Prepar3D v4/scenery.cfg";
-        String src = "C:/ProgramData/Lockheed Martin/Prepar3D v4/fixx_backup_scenery.cfg";
         File source = new File(src);
         File dest = new File(dst);
 
