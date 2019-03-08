@@ -3,7 +3,7 @@
 INFO
 --------------------------------------------------------------------------------------------------------------------------------
 * Fixes the Splash Screen Freeze when opening P3D. Might work on other versions but only confirmed on v4.3.
-* Its just a few minitues effort so Nothing fancy here; it just backs-up your sceanery.cfg file and deletes it. (I just saved you the effort of renaming/deleting the file form the program data/Lockheed/Prepar3d directory)
+* Its just a few minitues effort so Nothing fancy here; it just backs-up your sceanery.cfg, dll.xml, exe.xml and simobjects.cfg file and deletes them. (I just saved you the effort of renaming/deleting the files form the program data/Lockheed/Prepar3d directory)
 
 REQUIREMENTS
 --------------------------------------------------------------------------------------------------------------------------------
